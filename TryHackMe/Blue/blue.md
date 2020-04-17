@@ -73,7 +73,7 @@
 > sam_database_elevated_access
 
 3 flag3
-> admin_documetns_can_be_valuable
+> admin_documents_can_be_valuable
 
 
 ### Written By : wh0am1
