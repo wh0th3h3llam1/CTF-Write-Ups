@@ -45,4 +45,6 @@
 
 ### GitHub : [wh0th3h3llam1](https://github.com/wh0th3h3llam1)
 
-### TryHackMe : ![wh0am1](http://tryhackme-badges.s3.amazonaws.com/wh0am1.png "wh0am1")
+<!-- ### TryHackMe : ![wh0am1](http://tryhackme-badges.s3.amazonaws.com/wh0am1.png "wh0am1") -->
+
+### TryHackMe : [wh0am1](https://tryhackme.com/p/wh0am1)
